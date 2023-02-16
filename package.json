@@ -33,7 +33,7 @@
     "json-loader": "^0.5.7",
     "lzutf8": "^0.4.7",
     "raf": "^3.4.0",
-    "ramda": "^0.25.0",
+    "ramda": "^0.28.0",
     "ramda-fantasy": "^0.8.0",
     "react-dragula": "^1.1.17",
     "react-fastclick": "^3.0.2",
